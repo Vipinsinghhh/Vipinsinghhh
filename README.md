@@ -4,7 +4,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif">
 
-- 🎓I'm currently pursuing a B.Tech in Computer Science with a specialization in Web Development..
+- 🎓I'm currently pursuing a B.Tech in Computer Science with a specialization in Web Development.
   
 - 👨‍💻Proficient in programming languages like **C, C++, Java, JavaScript, React.js, Node.js**, Express.js, HTML5, and CSS.
   
