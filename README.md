@@ -12,7 +12,7 @@
   
 - 👨‍💻 All of my projects are available at https://github.com/Vipinsinghhh
   
-- 📝 I regularly write articles on https://www.linkedin.com/in/vipin-singh-9717b2289/
+- 📝 I regularly write articles on https://www.linkedin.com/in/vipin-singh1/
   
 - 💬 Ask me about MERN
   
