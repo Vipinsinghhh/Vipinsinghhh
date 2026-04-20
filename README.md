@@ -31,7 +31,11 @@
 ![](https://github-readme-stats.vercel.app/api?username=Vipinsinghhh&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Vipinsinghhh&theme=radical&hide_border=false)<br/>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Vipinsinghhh&" alt="Vipinsinghhh" /></p>
+<p align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Vipinsinghhh&theme=radical&hide_border=false" />
+</p>
+<br/>
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Vipinsinghhh&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
